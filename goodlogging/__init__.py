@@ -1,1 +1,1 @@
-from .logzilla import *
+from .goodlogging import *

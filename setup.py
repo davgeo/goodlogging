@@ -8,7 +8,7 @@ with open(os.path.join(path, 'README.rst'), encoding='utf-8') as f:
   long_description = f.read()
 
 setup(name='goodlogging',
-      version='1.0.0',
+      version='1.0.1',
       description='Logging module for command line utilities',
       long_description=long_description,
       url='http://github.com/davgeo/goodlogging',
